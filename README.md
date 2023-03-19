@@ -25,7 +25,7 @@ Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento 
 ### Instalación 🔧
 Después de descargar Android Studio y git en su máquina local, ejecute el comando:
 
-> git clone 
+> git clone https://github.com/pujolcristian/KitchenRecipesApp.git
 
 Abrir Android Studio y haga clic en la opción **Abrir un proyecto existente en Android Studio** y seleccione la carpeta donde se encuentra clonado el proyecto.
 
