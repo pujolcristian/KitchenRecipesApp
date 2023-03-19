@@ -1,6 +1,6 @@
 # KitchenRecipesApp! - Android
 
-[![Kotlin](https://img.shields.io/badge/kotlin-1.6.21-blue.svg)](http://kotlinlang.org) [![Gradle](https://img.shields.io/badge/gradle-7.0.2-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
+[![Kotlin](https://img.shields.io/badge/kotlin-1.8.0-blue.svg)](http://kotlinlang.org) [![Gradle](https://img.shields.io/badge/gradle-7.5.0-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
 
 :white_check_mark: 100% en **Kotlin**
 
